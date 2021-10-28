@@ -6,10 +6,10 @@ Interface Angular published on Github pages (Githup pages)
 
 The database is published on [MongoDB Atlas](https://cloud.mongodb.com/)
 
-## App link:
+## App link
 https://mhdbashar.github.io/angular-App/tutorials
 
-## Useful Reference:
+## Useful Reference
 
 1- [Spring Boot with Angular and Mongodb Example](https://www.bezkoder.com/angular-12-spring-boot-mongodb/)
 
@@ -17,4 +17,4 @@ https://mhdbashar.github.io/angular-App/tutorials
 
 3- [Spring Boot and MongoDB Atlas](https://mnnk.medium.com/spring-boot-and-mongodb-atlas-a2df466e8949)
 
-4- [How to deploy Angular Apps to GitHub Pages (gh-pages)](https://medium.com/tech-insights/)how-to-deploy-angular-apps-to-github-pages-gh-pages-896c4e10f9b4)
+4- [How to deploy Angular Apps to GitHub Pages (gh-pages)](https://medium.com/tech-insights/how-to-deploy-angular-apps-to-github-pages-gh-pages-896c4e10f9b4)
