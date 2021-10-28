@@ -1,13 +1,10 @@
 # An Example for Angular App as Frontend for Spring boot App with MongoDB  
 
-Spring app published on [Heroku](https://dashboard.heroku.com/apps)
+Angular App published on [Githup pages](https://mhdbashar.github.io/angular-App/tutorials)
 
-Interface Angular published on Github pages (Githup pages)
+Spring App published on [Heroku](https://anasisnotavailable.herokuapp.com/swagger-ui.html)
 
-The database is published on [MongoDB Atlas](https://cloud.mongodb.com/)
-
-## App link
-https://mhdbashar.github.io/angular-App/tutorials
+Mongodb database published on [MongoDB Atlas](https://cloud.mongodb.com/)
 
 ## Useful Reference
 
